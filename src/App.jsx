@@ -1,11 +1,11 @@
+import Body from "./components/Body";
 
 function App() {
-
   return (
     <>
-    <h1 className="">Hello</h1>
+      <Body />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
